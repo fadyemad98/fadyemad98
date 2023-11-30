@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 # What is progress-bar.dev?
 
 ![Progress](https://progress-bar.dev/28/)
@@ -41,3 +41,7 @@ https://progress-bar.dev/7/?scale=10&title=mark&suffix=X
 https://progress-bar.dev/420/?scale=500&title=funds&width=120&color=babaca&suffix=$
 
 Heavily inspired by the works of https://github.com/fehmicansaglam/progressed.io
+
+
+
+-->
