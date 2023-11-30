@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # What is progress-bar.dev?
 
 ![Progress](https://progress-bar.dev/28/)
-https://progress-bar.dev/28/
+https://
 
 ![Progress](https://progress-bar.dev/28/?title=progress)
 https://progress-bar.dev/28/?title=progress
