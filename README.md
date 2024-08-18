@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fadyemad98" alt="fadyemad98" /></a> </p>
 
-- 🌱 I’m currently learning **Embedded Linux, RTOS and Autosar**
+- 🌱 I’m currently learning **BARE-METAL, Embedded Linux, RTOS and Autosar**
 
 - 📫 How to reach me **fadyemad642010@gmail.com**
 
